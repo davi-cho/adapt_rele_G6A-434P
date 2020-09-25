@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Base\Base.PrjPcb
+[Project2]
+ProjectPath=reles\reles.PrjPcb
